@@ -1,3 +1,4 @@
+//Smart Billing System
 import java.util.*;
 
 public class biling{
@@ -21,5 +22,6 @@ public class biling{
         System.out.println("final payable amount");
         System.out.print(bill);
     }
+
 
 }
