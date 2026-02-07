@@ -1,3 +1,4 @@
+// Set Bit Counter
 import java.util.Scanner;
 
 public class CountSetBits {
@@ -15,4 +16,5 @@ public class CountSetBits {
         System.out.println("Total set bits: " + count);
         sc.close();
     }
+
 }
