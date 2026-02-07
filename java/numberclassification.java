@@ -1,3 +1,4 @@
+// Number Classification Tool
 import java.util.Scanner;
 
 public class numberclassification{
@@ -26,3 +27,4 @@ public class numberclassification{
       }
     }
 }
+
