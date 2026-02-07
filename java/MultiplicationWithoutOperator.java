@@ -1,3 +1,4 @@
+// Multiplication via Bit Shifting
 import java.util.Scanner;
 
 public class MultiplicationWithoutOperator{
@@ -19,4 +20,5 @@ public class MultiplicationWithoutOperator{
         sc.close();
 
     }
+
 }
