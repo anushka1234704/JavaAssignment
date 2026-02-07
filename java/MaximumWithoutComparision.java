@@ -1,3 +1,4 @@
+// Maximum Without Comparison
 import java.util.Scanner;
 
 public class MaximumWithoutComparision {
@@ -15,4 +16,5 @@ public class MaximumWithoutComparision {
         sc.close();
 
     }
+
 }
