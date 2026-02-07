@@ -1,3 +1,4 @@
+// quotient without using the / or % operators.
 import java.util.Scanner;
 
 public class QuotientWithoutDivision {
@@ -31,3 +32,4 @@ public class QuotientWithoutDivision {
         sc.close();
     }
 }
+
