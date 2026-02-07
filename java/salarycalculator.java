@@ -1,3 +1,4 @@
+// Employee Salary Calculator 
 import java.util.*;
 
 public class salarycalculator{
@@ -20,4 +21,5 @@ public class salarycalculator{
         System.out.println("calculated net salary:");
         System.out.print(netsalary);
                     }
+
 }
