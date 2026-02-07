@@ -1,3 +1,4 @@
+// Constant Multiplication (x7)
 import java.util.Scanner;
 
 public class ConstantMultiplicationBySeven {
@@ -10,4 +11,5 @@ public class ConstantMultiplicationBySeven {
         sc.close();
 
     }
+
 }
