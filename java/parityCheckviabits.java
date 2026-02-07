@@ -1,3 +1,4 @@
+// determine if a given number is even or odd without using the % operator.
 import java.util.Scanner;
 
 public class parityCheckviabits {
@@ -16,3 +17,4 @@ public class parityCheckviabits {
         sc.close();
     }
 }
+
