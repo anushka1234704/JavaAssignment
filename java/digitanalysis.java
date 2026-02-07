@@ -1,3 +1,4 @@
+// Reverse and Digit Analysis of a Number 
 import java.util.Scanner;
 
 public class digitanalysis{
@@ -36,5 +37,6 @@ public class digitanalysis{
       System.out.println(count);
     }
 }
+
 
       
