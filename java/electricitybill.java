@@ -1,3 +1,4 @@
+// Electricity Bill Generator 
 import java.util.*;
 
 public class electricitybill{
@@ -24,4 +25,5 @@ public class electricitybill{
        System.out.print(final_charge); 
     }
 }
+
       
