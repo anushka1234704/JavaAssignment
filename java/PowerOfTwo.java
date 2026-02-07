@@ -1,3 +1,4 @@
+// Power of Two Identification
 import java.util.Scanner;
 
 public class PowerOfTwo {
@@ -10,4 +11,5 @@ public class PowerOfTwo {
 
         System.out.println(result);
     }
+
 }
